@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  width: 100%;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0 60px;
+  background: #a4a4a4;
+}
+
+.wrapper-button {
+
+}
