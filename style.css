@@ -12,5 +12,8 @@
 }
 
 .wrapper-button {
-  
+  float: left;
+  width: calc(100% / 3);
+  height: 40px;
+  padding: 20px;
 }
